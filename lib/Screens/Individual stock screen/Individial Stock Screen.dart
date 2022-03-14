@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'Components/Search Component.dart';
-import 'Components/StockInfo.dart';
+import 'Components/Stock Information Component/StockInfo.dart';
 
 class IndividualStockScreen extends StatelessWidget {
   @override
