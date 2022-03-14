@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'Individual stock screen/Components/Search Component.dart';
+import 'Individual stock screen/Components/Stock Information Component/Component/Search Component.dart';
 import 'Individual stock screen/Individial Stock Screen.dart';
 
 class HomeScreenUI extends StatefulWidget {

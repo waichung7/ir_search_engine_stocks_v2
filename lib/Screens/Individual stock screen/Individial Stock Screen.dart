@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'Components/Search Component.dart';
+import 'Components/Stock Information Component/Component/Search Component.dart';
 import 'Components/Stock Information Component/StockInfo.dart';
 
 class IndividualStockScreen extends StatelessWidget {

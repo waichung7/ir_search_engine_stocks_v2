@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-
-import 'Screens/Individual stock screen/Individial Stock Screen.dart';
 import 'Screens/HomeScreenUI.dart';
 
 void main() {

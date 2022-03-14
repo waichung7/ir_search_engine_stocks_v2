@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:ir_search_engine_stocks/Screens/Individual%20stock%20screen/Components/Stock%20Information%20Component/Component/News%20Component.dart';
 import 'Component/Individual Stock Info Card.dart';
 import 'Component/Individual Stock Score Card.dart';
 import 'Component/Line Graph Model.dart';
@@ -117,6 +118,10 @@ class StockInfoState extends State<StockInfo> {
             )
           ],
         ),
+        SizedBox(height:10),
+        Container(
+            height: 250,
+            child: NewsComponent())
 
 
       ],
